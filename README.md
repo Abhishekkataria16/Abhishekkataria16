@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishekkataria16
+- 👋 Hi, I’m Abhishek Kataria
 - 👀 I’m interested in R projects, Ansible Projects.
 - 🌱 I’m currently learning  PHP for a project
 - 💞️ I’m looking to collaborate on R projects & Ansible Projects
